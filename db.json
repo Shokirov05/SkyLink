@@ -1,0 +1,23 @@
+{
+  "fligths": [
+    {
+      "id": "ffc6",
+      "destination": "Toshkent",
+      "flyDate": "2024-12-17T19:00:00.000Z",
+      "returnDate": "2024-12-18T19:00:00.000Z",
+      "children": 2,
+      "seats": 1,
+      "userId": 1
+    },
+    {
+      "id": "d0b5",
+      "destination": "Fargona",
+      "flyDate": "2024-12-17T19:00:00.000Z",
+      "returnDate": "2024-12-18T19:00:00.000Z",
+      "children": 2,
+      "seats": 1,
+      "userId": 1
+    }
+  ],
+  "users": []
+}
